@@ -3,6 +3,7 @@ body{
 }
 
 h1{
+    background-color: darkred;
     text-align: center;
     color: white;
     border-style: solid;
@@ -13,6 +14,13 @@ h1{
 p{
     text-align: center;
     color: white;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 iframe{
