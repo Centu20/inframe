@@ -3,12 +3,14 @@ body{
 }
 
 h1{
+    text-align: center;
     color: white;
     border-style: solid;
     border-color: beige;
 }
 
 p{
+    text-align: center;
     color: white;
 }
 
